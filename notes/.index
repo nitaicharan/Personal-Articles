@@ -543,3 +543,4 @@ What the heck is the event loop anyway Philip Robe 43dda5e56e2d4ab38e3a76b4c0d6c
 Where does npm install the packages 850fa67f4b5745dc8538dfad585eaef9.md
 Which HTTP Status Code to Use for Every CRUD App dc9da69c83a04a6fa59352b3af444b32.md
 Why Angular 14тАЩs new inject() function is so amazi f186beb5f07842f6986a04bc7393d941.md
+Why we have banned default exports in Javascript a c4e38e0723d54b62a73a5025ad8b5b9f.md
