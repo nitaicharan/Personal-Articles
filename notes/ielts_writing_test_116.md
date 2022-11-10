@@ -10,7 +10,6 @@ The graph below shows the number of shops that closed and the number of new shop
 
 ![](../images/ed05ecbc-0bdf-4b7c-a1b0-70bb9dc639a9.png)
 
-### Answer
 #### Introduction
 The graph illustrates the difference between opening and closures shops in the period of 2011 and 2018.
 
@@ -18,10 +17,13 @@ The graph illustrates the difference between opening and closures shops in the p
 Overall, the graph evidences the high declines of opening shops compared between closuring in the same dates. In save years, the period described by the graph, the amount of opening shops became lower then the closed having some declines and accessions.
 
 #### Body 1
-- Created started higher than closed
-- Created ended lower then clused
+Accordingly to the presented chart, the number of created shops started above 8.000 in the year 2011 and decreased along the years showed in the chart. A create dropped started in the same started year and went around 8.500 to lower then 4.000 with a difference with more then 4.500 approximately and continue in a trend of downward. In 2018 opened shops reached the number 3.000, around 5.500 of difference between 2011 and 2018.
 
 #### Body 2
+Meanwhile the number of closured shops came about 6.400 in 2011 and also having a float tread of downward trend and decrease to slightly above 5.000, with difference of around 1.4000. The closuring also had floating of downward and upward trend. In 2014 fall down from about 6.500 and and reached the downward trend lower then 500, reaching the maximum lower point in all graph described years.
+
+## Body 3
+The number of created shops, in the charts, end up with in seven years (2011-2018) became lower then the number of closed shops with a difference of 2.000.
 
 ## Task 2
 
