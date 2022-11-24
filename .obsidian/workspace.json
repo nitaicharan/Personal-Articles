@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d7cb08524d82dce",
+        "id": "65596ea5fe8795eb",
         "type": "tabs",
         "children": [
           {
-            "id": "4835ed3ded74298e",
+            "id": "93752ec4cad6e4cf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4835ed3ded74298e",
+  "active": "93752ec4cad6e4cf",
   "lastOpenFiles": [
+    "bookmarks/20221202104457.bookmark.md",
+    "bookmarks/20221122102903.bookmark.md",
     "bookmarks/20221105202023.bookmark.md",
-    "bookmarks/20221110082018.bookmark.md",
-    "bookmarks/20221108200153.bookmark.md",
+    "bookmarks/20221102202043.bookmark.md",
     "bookmarks/20221108183505.bookmark.md",
-    "bookmarks/20221104211850.bookmark.md",
-    "bookmarks/20221028082030.bookmark.md",
-    "notes/20221110194006.md",
-    "notes/20221110194927.md",
+    "bookmarks/20221105102333.bookmark.md",
     "bookmarks/20221026075836.bookmark.md",
-    "images/ed05ecbc-0bdf-4b7c-a1b0-70bb9dc639a9.png"
+    "bookmarks/20221028082030.bookmark.md",
+    "bookmarks/20221115074520.bookmark.md",
+    "bookmarks/20221108185025.bookmark.md"
   ]
 }
